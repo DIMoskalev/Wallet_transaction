@@ -1,4 +1,4 @@
-from pydantic import BaseModel, Field, condecimal
+from pydantic import BaseModel, condecimal
 
 
 class WalletBase(BaseModel):
